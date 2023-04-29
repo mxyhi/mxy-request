@@ -1,6 +1,6 @@
 {
   "name": "mxy-request",
-  "version": "0.1.8",
+  "version": "0.1.81",
   "description": "request example",
   "main": "./cjs/index.js",
   "module": "./es/index.js",
